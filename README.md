@@ -27,8 +27,6 @@ I’m excited to share that I’ve successfully completed this self-taught proje
 
 ---
 🌐 **Live Project** ⏩ [https://tailwind-spa-reactjs.netlify.app/](https://tailwind-spa-reactjs.netlify.app/)
-
-🌐 **GitHub Link** ⏩ [https://tailwind-spa-reactjs.netlify.app/](https://tailwind-spa-reactjs.netlify.app/) *(Check if this is correct — GitHub link should be GitHub repo, not Netlify link.)*
 ---
 
 ---
