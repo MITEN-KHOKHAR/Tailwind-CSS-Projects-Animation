@@ -26,7 +26,7 @@ I’m excited to share that I’ve successfully completed this self-taught proje
 
 
 ---
-🌐 **Live Project** ⏩ [https://tailwind-spa-reactjs.netlify.app/](https://tailwind-spa-reactjs.netlify.app/)
+🌐 **Live Project** ⏩ [[https://tailwind-spa-reactjs.netlify.app/](https://tailwind-spa-react-js.netlify.app/)
 ---
 
 ---
