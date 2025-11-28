@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: 'Lillybelle'; /* This is the name you'll use in Tailwind */
-  src: url('./src/assets/fonts/LillyBelle.ttf');
+  src: url('/assets/fonts/LillyBelle.ttf');
   font-weight: normal;
   font-style: normal; 
 }
